@@ -14,4 +14,4 @@ const myColor = hexColorGenerator('My random string');
 ```
 
 ## Contribution
-- [@v.kiraidt](mailto:hello@tapston.com) The main author.
+- [@v.kiraydt](mailto:hello@tapston.com) The main author.

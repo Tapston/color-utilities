@@ -4,11 +4,12 @@
   "description": "Generate Hex color code from any string",
   "main": "index.js",
   "keywords": [
-    "react-native",
-    "styles",
-    "responsive",
-    "relative",
-    "adaptive",
+    "color",
+    "utility",
+    "javascript",
+    "generate",
+    "string",
+    "hex",
     "tapston"
   ],
   "homepage": "https://github.com/Tapston/color-utilities#readme",

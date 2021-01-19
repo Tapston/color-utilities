@@ -1,0 +1,24 @@
+{
+  "name": "@tapston/color-utilities",
+  "version": "1.0.0",
+  "description": "Generate Hex color code from any string",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "styles",
+    "responsive",
+    "relative",
+    "adaptive",
+    "tapston"
+  ],
+  "homepage": "https://github.com/Tapston/color-utilities#readme",
+  "author": "Tapston Development, LLC / tapston.com",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.50.0",
+    "react-native-extended-stylesheet": "*"
+  }
+}
